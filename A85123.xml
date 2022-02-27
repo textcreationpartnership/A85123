@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeale to heaven, and heavens ministers: the most reverend Pastors of Gods word, now assembled in the synode of England: and to all the faithfull people of God: from all the prisoners, imprisoned for debt, in the severall gaols within the Kingdome of England, and principalitie of Wales. Together with divers infallible reasons, shewing, that imprisonment of men for debt, is contrary to the Law of God: the law of nations: as also, the fundamentall lawes of this kingdome. Composed in the yeare of Englands jubilie, if they doe not neglect justice and equitie, in the yeare of grace fortie foure, els will judgement enter by the dore Written by a member of the true church of Christ, J. M. F.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85123</idno>
+            <idno type="STC">Wing F45</idno>
+            <idno type="STC">Thomason E8_23</idno>
+            <idno type="STC">ESTC R17953</idno>
+            <idno type="EEBO-CITATION">99860309</idno>
+            <idno type="PROQUEST">99860309</idno>
+            <idno type="VID">112428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112428)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E8[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeale to heaven, and heavens ministers: the most reverend Pastors of Gods word, now assembled in the synode of England: and to all the faithfull people of God: from all the prisoners, imprisoned for debt, in the severall gaols within the Kingdome of England, and principalitie of Wales. Together with divers infallible reasons, shewing, that imprisonment of men for debt, is contrary to the Law of God: the law of nations: as also, the fundamentall lawes of this kingdome. Composed in the yeare of Englands jubilie, if they doe not neglect justice and equitie, in the yeare of grace fortie foure, els will judgement enter by the dore Written by a member of the true church of Christ, J. M. F.</title>
+                  <author>J. M. F.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Colophon: London: Printed in the yeare of grace, and expected REeformation, of Injustice and Oppression. Anno 1644.</note>
+                  <note>Annotation on Thomason copy: "London 10th September: 1644".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112428:1" rendition="simple:additions"/>
+            <p>AN Appeale to Heaven, AND HEAVENS MINISTERS: The moſt Reverend Paſtors of Gods Word, Now aſſembled in the Synode of <hi>ENGLAND:</hi>
+            </p>
+            <p>And to all the faithfull People of God: From all the Priſoners, impriſoned for Debt, in the ſeverall Gaols within the Kingdome of ENGLAND, and Principalitie of <hi>WALES.</hi>
+            </p>
+            <p>Together with divers infallible Reaſons, ſhewing, that im<g ref="char:EOLhyphen"/>priſonment of men for Debt, is contrary to the Law of God: The law of Nations: as alſo, the fundamentall Lawes of this Kingdome.</p>
+            <lg>
+               <l>Compoſed in the yeare of Englands Jubilie,</l>
+               <l>if they doe not neglect Juſtice and Equitie,</l>
+               <l>In the yeare of grace fortie foure,</l>
+               <l>els will Judgement enter by the dore.</l>
+            </lg>
+            <p>Written by a member of the true Church of Chriſt, <hi>J. M. F.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <opener>Humbly ſhew,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat having formerly addreſſed our ſelves, by our ſeverall humble Petitions, unto the high and honorable Court of Parliament, for redreſſe of our intolerable grievances, and Chriſtian ſlavery, ſuffered under the heavie and unexpreſſible yoke of tyrannicall Im<g ref="char:EOLhyphen"/>priſonment, <hi>where they that rule over us make us to howle,</hi>
+               <note place="margin">Iſa. 52.5.</note> Iſa. 52.5. A thing in it ſelf ſurpaſſing the tyranny of Turks and Pa<g ref="char:EOLhyphen"/>gans,
+<pb n="2" facs="tcp:112428:3"/>and not to be paralleld in any other Kingdome or State throughout Chriſtendome. Being alſo a thing far different from the liberty of the Subject, and quite contrary to the Contents of <hi>Magna Charta,</hi> and <hi>the Petition of Right.</hi> Both which were alſo ratified and confirmed by his Majeſty, for the benefit of all his people. And whether <hi>Impriſonment for Debt,</hi> be a thing conſonant to the word of God, wee refer to your pious judgements, upon your ſerious peruſall of theſe ſeverall portions of holy Scripture, <hi>viz. Pſal.</hi> 14.4. 6. <hi>Pſal.</hi> 53.3, 4. <hi>Pſal.</hi> 82.2, 3, 4, 5. <hi>Pſal.</hi> 94.1, 2, 3, 4, 5, 6, 7. 20. <hi>Iſa.</hi> 3.14, 15. <hi>Iſa.</hi> 10.1, 2, 3, 4. <hi>Iſa.</hi> 58.5, 6, 7, 8, 9, 10, 11. <hi>Jere.</hi> 5.27, 28. 30. <hi>Ezech.</hi> 22. <hi>Micah</hi> 7.2, 3, 4. <hi>Zach.</hi> 8.16, 17. <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> 23.23. 1 <hi>Cor.</hi> 13.1, 2, 3. with many other ſuch like places, proving the unlawfulneſſe of Oppreſſion, Impriſon<g ref="char:EOLhyphen"/>ment for Debt, and the neglect of Juſtice for reliefe of ſuch whom the Lord hath afflicted,
+<note place="margin">Pſal. 69.24. 25. 26.</note> through ſeverall croſſes and loſſes, by ſea and land: Whoſe afflictions alſo have been re<g ref="char:EOLhyphen"/>doubled upon them by the tyranny of ſome perſecuting <hi>Nimrods,</hi> whereby they are brought to extreame want and miſery. Yet notwithſtanding all this, their miſerable bodies are daily ſacrificed by the mercileſs Common Law, unto the tyranny of Jaylors, and their adherents; as alſo to the op<g ref="char:EOLhyphen"/>preſſion of their cruell mercileſs Creditors.</p>
+            <p>Thus having (as we ſaid before) addreſſed our ſelves by our ſeverall Petitions of complaint, but by what unjuſt hand we know not, our complaints have been hitherto obſtructed, and we thereby (for theſe three years paſt) have not reaped the pleaſing fruit of our humble &amp; juſt deſires, for the work of our reliefe in, and releaſe from, theſe our ſeverall dunge<g ref="char:EOLhyphen"/>ons of miſery, and places of tyrannicall oppreſſion, notwith<g ref="char:EOLhyphen"/>ſtanding the <hi>Dormant Ordinance</hi> of Parliament to that effect.</p>
+            <p>The anchor of our hope now reſting on heaven, and on you the pious ſervants and inſtruments of God, for the cry<g ref="char:EOLhyphen"/>ing aloud in the ears (and ſtirring up) of all thoſe Worthies, to whom the Lord hath committed the ſword of Juſtice, to
+<pb n="3" facs="tcp:112428:2"/>and for the work of our deliverance and ſpeedy accompliſh<g ref="char:EOLhyphen"/>ment of our juſt deſires.</p>
+            <p>Wee doe therefore in all humilitie, beſeech you by the mercies of God, to commiſerate theſe our preſent deplora<g ref="char:EOLhyphen"/>ble conditions, and to make theſe our grievous and unjuſt oppreſſions manifeſt unto that high and honorable Court of Parliament, that ſo thereby wee may become capable of their great care, for the honour of God, in the reliefe and re<g ref="char:EOLhyphen"/>leaſe of us his afflicted and long oppreſſed members, by the flowing ſtreame of true juſtice and judgement,
+<note place="margin">Exod. 23.6, 7, 8, 9.</note> without re<g ref="char:EOLhyphen"/>ſpect of perſons, in a free current, without any pecuniary charge (which is a thing, that our extreame povertie cannot reach unto.)</p>
+            <p>And that this juſt and pious act of reliefe and releaſe, may through their wiſdoms be conferred on us, by men truly fea<g ref="char:EOLhyphen"/>ring God, and hating covetouſneſſe, and not by any co<g ref="char:EOLhyphen"/>vetous Lawyers, ſeditious Atturnies, oppreſſing Jaylors,
+<note place="margin">Pſal. 10.3.</note> nor by any their adherents, who (like unto the Maſſe-Prieſt) have ever (by their calling and profeſſion from their youth) been taught this one impious Principle, <hi>viz. Give me my fee,</hi>
+               <note place="margin">1 Cor. 6.4, 5, 6, 7, 8.</note> or elſe <hi>No Peny no Pater noſter,</hi> no money, no Juſtice, no true judgement nor mercy.</p>
+            <p>In confidence of your pious favour to be extended for the accompliſhment of this our humble requeſt, wee ſhall ever continue our prayers for you and all your pious underta<g ref="char:EOLhyphen"/>kings, and ſend our praiſes to heaven for you, as for the pious inſtruments of our delivery from theſe ſeminaries of ini<g ref="char:EOLhyphen"/>quitie, and ſeed- plots of all abomination, tyranny, and op<g ref="char:EOLhyphen"/>preſſion.</p>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:112428:3"/>
+            <head>Infallible Reaſons ſhewed, why men for Debt ought not to be Impriſoned.</head>
+            <p>FIrſt, They conceive themſelves to have been moſt unjuſtly and tyrannouſly detained in priſon, by the corrupt practi<g ref="char:EOLhyphen"/>ſes, wayes, and meanes, of evill minded Judges, covetous Lawyers,
+<note place="margin">Levit. 25.23, 24. 35. 43.</note> ſeditious Atturnies, and by and for the particular benefit of cruell exacting Jaylors; Eſpecially ſuch of them who are allied to perſons of eminency in the State: Contra<g ref="char:EOLhyphen"/>ry to the lawes of God, the lawes of Nations, and the funda<g ref="char:EOLhyphen"/>mentall lawes of this Kingdome.</p>
+            <p>For, The words of <hi>Magna Charta</hi> are theſe, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>That no freeborne Subject ſhall be detained in priſon for Debt,
+<note place="margin">
+                     <hi>Will.</hi> 2. <hi>chap</hi> 18 <hi>Magna Charta</hi> 9. of <hi>Hen.</hi> 3. <hi>chap.</hi> 19. <hi>Re<g ref="char:EOLhyphen"/>gis. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 77. <hi>D. Homine <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o</hi> 6. 3. <hi>Edw.</hi> 1. <hi>chap.</hi> 15. <hi>&amp; Anno</hi> 5.9. <hi>&amp; A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>no</hi> 25. <hi>Edw.</hi> 3. <hi>chap.</hi> 4.</note> any Ordinance, Law, Act, or Statute, made, or hereafter to be made to the contrary thereof in any wiſe notwithſtanding.</hi>
+            </p>
+            <p>And the power of this law is not, nor ought not to be ex<g ref="char:EOLhyphen"/>tinguiſhed at this day, being a perpetuall Law, and obtained by the bloud of many thouſands of our anceſtors. By which they freed themſelves and us from being ſlaves, and thereby have made us free-borne Subjects, and for divers other moſt weightie cauſes, whereupon it was firſt founded, being at this day ſtyled and taken to be the Fundamental law of this land. And all Statutes that ſhall be made in any one particular point, contrary to <hi>Magna Charta,</hi> are voyd by the Statute of the 42 <hi>Ed.</hi> 3. chap. 1.</p>
+            <p>Secondly, In regard of the continuance of theſe unjuſt and tyrannous courſes. For that ever ſince the beginning of this Parliament, the poore priſoners have been by no wayes nor meanes inabled,
+<note place="margin">Gen. 18.19.</note> freely to reape the fruit of Juſtice, for their releaſe out of priſon, and reliefe againſt their oppreſ<g ref="char:EOLhyphen"/>ſors; For, notwithſtanding all our ſeverall grievous com<g ref="char:EOLhyphen"/>plaints,
+<pb n="5" facs="tcp:112428:3"/>(theſe three years paſt) againſt our oppreſſors, and crueltie of Jaylors, and their mercileſs Subſtitutes, our com<g ref="char:EOLhyphen"/>plaints have been ſlighted,
+<note place="margin">Hoſea 4.1, 2.</note> and we our ſelves ſtill detained in priſon, under the cruell bonds of oppreſſion and Chriſtian ſlavery.</p>
+            <p>Thirdly, In regard the Jaylors are ſtill countenanced, and ſuffered to perſiſt in their tyrannous courſes and cruell pra<g ref="char:EOLhyphen"/>ctiſes upon priſoners; by murthering of ſome, ſtarving o<g ref="char:EOLhyphen"/>thers to death, &amp; decripping of others by their iron fetters;
+<note place="margin">Job 24.14.22.</note> which is a thing manifeſt to many priſoners, and others alſo.</p>
+            <p>Fourthly, In regard the Jaylors (notwithſtanding the juſt unlimited power of this Parliament) moſt impudently ſtill perſiſt, in threatning the poore priſoners with their iron fetters, and in practiſing this their cruell tyranny on ſome, as alſo by poſting of ſome of them from one priſon to another,
+<note place="margin">Pſal. 31.13.</note> and from one part of the priſon to another, upon their pri<g ref="char:EOLhyphen"/>vate diſtaſte taken againſt any of them;
+<note place="margin">Pſal. 58.</note> as alſo by ſuffering and alſo cauſing the priſoners to be violently aſſaulted and beaten in their chambers, by their inſtruments of crueltie; by reaſon whereof their lives have been and are ſtill indan<g ref="char:EOLhyphen"/>gered, and their eſtates utterly ruined.</p>
+            <p>Fiftly, In regard the Jaylors are alſo ſtill ſuffered to exact their unjuſt extorting fees, and without controule,
+<note place="margin">42. of <hi>Eliz.</hi>
+               </note> to op<g ref="char:EOLhyphen"/>preſſe, defraud, and deceive the priſoners of their gifts, and Legacies; as alſo of the collection-moneys due unto them by the Statutes of this Realme, and to detaine ſome men in priſon, meerly for their own unjuſt exacting fees, untill ſuch time as ſome Legacy comes for releaſe; to the hazard, yea, often to the loſſe of the priſoners life. In all which ſeverall extreame oppreſſions, the poore priſoners have hitherto reaped no redreſſe.</p>
+            <p>Sixtly, In regard of theſe diſtracted times, the charitie of the Basket alſo much fayling; By reaſon whereof, divers pri<g ref="char:EOLhyphen"/>ſoners for debt, have been ſtarved to death, and more are
+<pb n="6" facs="tcp:112428:4"/>like to follow the ſame way daily, if this barbarous oppreſ<g ref="char:EOLhyphen"/>ſion courſe of crueltie, for impriſonment of men for debt, be ſtill ſuffered to continue in this Kingdome.</p>
+            <p>For theſe and many other moſt pregnant reaſons,
+<note place="margin">J<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 4.11, 13.</note> ready to be manifeſted, if by Juſtice countenanced, and not by the ſubtiltie of ſome powerfull perſonages ſtill obſtructed; the poore priſoners ought in all reaſon and conſcience to injoy their liberties, and alſo for that purpoſe to be ſpeedily by Juſtice relieved and releaſed. For wee are a people ſpoy<g ref="char:EOLhyphen"/>led of all our eſtates, credits, and callings; and many of us from being formerly painfull and profitable Bees in this Common-wealth,
+<note place="margin">Pro. 21.3, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 10</note> are now by theſe inhumane courſes made Drones,
+<note place="margin">Pro. 21.22, 23</note> yea, we are rather, as men buried alive, and by the meer ſubtle practiſes of the perſons aforeſaid, wee are all of us inſnared in holes, and hid, yea, buried in priſon-houſes. Behold,
+<note place="margin">Iſa. 42.22.</note> wee are ſet apart for a prey to oppreſſion, and none delivereth us, yea, for a ſpoyle to Lawyers and Jaylors, and none ſaith, <hi>Reſtore unto them their right.</hi> And if it be not ſo now,
+<note place="margin">Job 24.25.</note> who will make me a lyer, and make my ſpeech no<g ref="char:EOLhyphen"/>thing worth?</p>
+            <p>Wee beſeech you therefore by the mercies of God, ſeri<g ref="char:EOLhyphen"/>ouſly to conſider theſe things, and let not the bloud of the innocent, and the groanes of the oppreſſed, cry any longer for vengeance, leſt their cry fall heavie upon the whole Kingdome. For, as the bleſſings of God ſhall crowne thoſe people, that truly and freely execute Juſtice and Judgement between man and man, without reſpect of perſons, and with<g ref="char:EOLhyphen"/>out any pecuniary reward;
+<note place="margin">Amos 3.10, 11</note> ſo wrath and deſtruction ſhall be upon all neglecters thereof.</p>
+            <p>For,
+<note place="margin">Pſal. 58.1.4. 5. 10. 11.</note> 
+               <hi>They know not to doe right,</hi> ſaith the Lord, <hi>who ſtore up violence and oppreſsion in their palaces;</hi> and <hi>abhorre him that ſpeaketh uprightly;</hi>
+               <note place="margin">Amos 5.10, 11 12. 15, 16. 24.</note> and <hi>tread upon the poore,</hi> and <hi>afflict the juſt,</hi> and <hi>take Bribes,</hi> and <hi>turne aſide the poore from their right.</hi>
+            </p>
+            <p>Therefore as yee expect the favour of God, and his bleſ<g ref="char:EOLhyphen"/>ſing on all your weighty matters, even the peace and eternall
+<pb n="7" facs="tcp:112428:4"/>welfare of your ſoules, as alſo the peace,
+<note place="margin">Levit. 26.6, 7, 8, 9. 15, 16, 17. 37.</note> plentie and proſpe<g ref="char:EOLhyphen"/>ritie of this Kingdome; Then muſt you ſeek good and not evill; eſtabliſh true Juſtice and Judgement, according to Gods law; and let Judgement run downe freely as water, and Righteouſneſſe as a mighty ſtreame; and then, (yet not till then) no doubt but the Lord God will be gracious unto the remnant of his people, and heale the Land.</p>
+            <p>If you ſhall doe all theſe things,
+<note place="margin">Iſa. 40.23.</note> and feare the Lord your God, who onely worketh wonders, and is able to bring Prin<g ref="char:EOLhyphen"/>ces to nothing, and make all the Judges of the earth as vani<g ref="char:EOLhyphen"/>tie, and weaken the ſtrength of all the mightie; Then ſhall yee not be deſtroyed; For, <hi>what doth the Lord require of thee, O man, but to doe Juſtice, to love mercy, and to walk humbly with thy God: To relieve the poore, the widow, and the ſtranger, and to let the oppreſſed goe free?</hi> Then ſhall your light break forth as the Sunne, and the Lord your God will have mercy upon you, and divert theſe his preſent judgements from you, and heale your Land; Then will he crowne you with Victories againſt your enemies; and will alſo cover your heads in the day of Battle; Yea, he will then alſo bleſſe all your deſignes,
+<note place="margin">Deut. 28.7. 10. 20.</note> and will utterly confound the ſecret Counſells of all the mightie <hi>Achitophels</hi> of theſe times.</p>
+            <p>But if yee ſhall neglect the due execution of Juſtice and Judgement, in all your Cities, then ſhall your adverſaries ſtill remaine, as Goads in your ſides, as Rocks of offence, and continuall ſtumbling blocks to you and your poſteritie, untill ruine and deſolation take hold on all the places of your habitations in the Land.</p>
+            <p>
+               <hi>Run to and fro through the ſtreets,
+<note place="margin">Jere. 5.</note> and ſee if there be any that executeth Judgement, and ſeeketh the truth. But they are as wild horſes, every one neighing after his neighbours wife; Yet they ſay,
+<note place="margin">Pſal. 73.6. 8.</note> No evill ſhall come upon us, neither ſhal we ſee the ſword, nor famine; Shall not my ſoule be avenged on ſuch a Nation as this, ſaith the Lord?</hi> Who lay waite, and ſet ſnares and traps to catch men,
+<pb n="8" facs="tcp:112428:5"/>
+               <hi>and to bury them alive in Priſon-houſes;</hi> yea, they ſurpaſſe the deeds of the wicked, becauſe they judge not the Cauſe of the fatherleſs, and the oppreſſed, and the Right of the needy doe they not judge.</p>
+            <p>
+               <hi>For I conſidered all the oppreſsions that are done,
+<note place="margin">Ezech 4.1.</note> and behold the teares of ſuch as be oppreſſed, and they have no comforter, and in the hands of their oppreſſors there is power, but the oppreſſed have no Comforter;</hi> And if it be not ſo now, who will (or can) make me a lyer, and make this my ſpeech nothing worth? <hi>Job</hi> 24.25.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the yeare of grace, and expected Refor<g ref="char:EOLhyphen"/>mation, of Injuſtice and Oppreſſion. <hi>Anno</hi> 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
